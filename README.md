@@ -6,6 +6,7 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/
 
 Bibliotecas usadas.
 
+<pre>
 !pip install nltk
 import nltk
 nltk.download()
@@ -21,4 +22,5 @@ nltk.download()
 !pip install datetime
 !pip install ipywidgets
 !jupyter nbextension enable --py widgetsnbextension
+</pre>
 
